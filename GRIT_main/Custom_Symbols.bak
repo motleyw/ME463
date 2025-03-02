@@ -525,14 +525,32 @@
 					)
 				)
 			)
+			(pin output line
+				(at 7.62 -6.35 180)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
 	)
 	(symbol "I2C_Ultrasonic_Sensor"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at 0 0 0)
+		(property "Reference" "Ultrasonic"
+			(at -0.508 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -540,7 +558,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 0)
+			(at -2.54 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -548,7 +566,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 0)
+			(at -2.54 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -557,7 +575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -2.54 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -566,7 +584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -2.54 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -576,8 +594,8 @@
 		)
 		(symbol "I2C_Ultrasonic_Sensor_1_1"
 			(rectangle
-				(start -5.08 -1.27)
-				(end 5.08 -11.43)
+				(start -6.35 -1.27)
+				(end 6.35 -6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -586,10 +604,10 @@
 					(type background)
 				)
 			)
-			(pin power_in line
-				(at -7.62 -3.81 0)
+			(pin input line
+				(at -8.89 -2.54 0)
 				(length 2.54)
-				(name "Vcc"
+				(name "Trig"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -604,10 +622,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at -7.62 -6.35 0)
+			(pin output line
+				(at -8.89 -5.08 0)
 				(length 2.54)
-				(name "SCL"
+				(name "Echo"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -623,7 +641,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 -8.89 0)
+				(at 8.89 -5.08 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -640,10 +658,10 @@
 					)
 				)
 			)
-			(pin output line
-				(at 7.62 -6.35 180)
+			(pin power_in line
+				(at 8.89 -2.54 180)
 				(length 2.54)
-				(name "SDA"
+				(name "Vcc"
 					(effects
 						(font
 							(size 1.27 1.27)
