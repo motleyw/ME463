@@ -4650,12 +4650,6 @@
 		(uuid "0d6ccee7-e1eb-4059-9b03-fc5a6c7d0dae")
 	)
 	(junction
-		(at 189.23 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1dffaefc-7a88-4166-b1f7-346ee4cfdb5c")
-	)
-	(junction
 		(at 132.08 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4860,22 +4854,10 @@
 		(uuid "b9031420-05cf-4fbb-97cd-0bb8e7bea3da")
 	)
 	(junction
-		(at 180.34 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9bb3c07-1b5a-48cc-a423-baa51f1bf0c2")
-	)
-	(junction
 		(at 232.41 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c33d1d0b-49cb-402e-ab7f-9054e67562c5")
-	)
-	(junction
-		(at 189.23 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca2eec54-36ff-4bd7-88c7-0f21db6993c5")
 	)
 	(junction
 		(at 278.13 81.28)
@@ -4888,12 +4870,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf9302c5-a323-47cd-a455-4bff711ceee2")
-	)
-	(junction
-		(at 180.34 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d294962e-5aef-4144-931f-cabf26fa0712")
 	)
 	(junction
 		(at 278.13 96.52)
@@ -4973,7 +4949,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 24.13) (xy 247.65 24.13)
+			(xy 167.64 24.13) (xy 247.65 24.13)
 		)
 		(stroke
 			(width 0)
@@ -5090,26 +5066,6 @@
 			(type default)
 		)
 		(uuid "0f661804-294a-40af-8e7d-2f420c6632ef")
-	)
-	(wire
-		(pts
-			(xy 165.1 40.64) (xy 180.34 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fb6d6b6-c4e1-4be7-b08d-9e5b962d7c4d")
-	)
-	(wire
-		(pts
-			(xy 189.23 26.67) (xy 189.23 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10dfb651-61c5-4d04-b5d2-942a401baba1")
 	)
 	(wire
 		(pts
@@ -5323,16 +5279,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 36.83) (xy 189.23 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ccffe36-287b-4132-97f9-9a7f0ad49ad4")
-	)
-	(wire
-		(pts
 			(xy 275.59 93.98) (xy 276.86 93.98)
 		)
 		(stroke
@@ -5380,16 +5326,6 @@
 			(type default)
 		)
 		(uuid "345e77d1-8375-4525-bd38-2b3fc72b4a44")
-	)
-	(wire
-		(pts
-			(xy 167.64 24.13) (xy 180.34 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34eda8d6-e9e7-4c06-ad18-7d7f680741ec")
 	)
 	(wire
 		(pts
@@ -5500,16 +5436,6 @@
 			(type default)
 		)
 		(uuid "43150eca-7047-4bdd-bbf5-c54248a70abb")
-	)
-	(wire
-		(pts
-			(xy 189.23 26.67) (xy 247.65 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "442f895f-3929-43a7-b50e-d88efbc6fe02")
 	)
 	(wire
 		(pts
@@ -6143,7 +6069,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 40.64) (xy 189.23 40.64)
+			(xy 165.1 40.64) (xy 198.12 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6633,7 +6559,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 26.67) (xy 189.23 26.67)
+			(xy 168.91 26.67) (xy 247.65 26.67)
 		)
 		(stroke
 			(width 0)
@@ -6710,16 +6636,6 @@
 			(type default)
 		)
 		(uuid "cae49fbb-3790-4da5-9e7a-36b161af3f31")
-	)
-	(wire
-		(pts
-			(xy 180.34 36.83) (xy 180.34 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb9b6a78-892a-466a-8595-c72900ed24c5")
 	)
 	(wire
 		(pts
@@ -6830,16 +6746,6 @@
 			(type default)
 		)
 		(uuid "d1f94556-86d6-46b9-aa04-1fd72b7092de")
-	)
-	(wire
-		(pts
-			(xy 180.34 24.13) (xy 180.34 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d339b0c1-3df6-425d-80f2-ab6beb162bc8")
 	)
 	(wire
 		(pts
@@ -7163,16 +7069,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 40.64) (xy 198.12 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5bacf40-9c66-430a-9edb-d6ef527991b1")
-	)
-	(wire
-		(pts
 			(xy 275.59 99.06) (xy 276.86 99.06)
 		)
 		(stroke
@@ -7220,6 +7116,28 @@
 			(type default)
 		)
 		(uuid "ffcecb9d-b5f3-4ec9-a49a-8a368bdc2158")
+	)
+	(text "Go Granular"
+		(exclude_from_sim no)
+		(at 230.378 174.498 0)
+		(effects
+			(font
+				(size 10.16 10.16)
+				(thickness 2.032)
+				(bold yes)
+			)
+		)
+		(uuid "8f7b1a02-2820-467c-905f-f3a04f0caeac")
+	)
+	(text "GRIT Total Schematic"
+		(exclude_from_sim no)
+		(at 197.866 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8a778bb-7cdd-4a3d-aeb9-57bcc66b5601")
 	)
 	(symbol
 		(lib_id "Custom_Symbols:I2C_Ultrasonic_Sensor")
@@ -7784,10 +7702,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "330a6d83-346c-43d0-8132-f65dcabc4b8b")
 		(property "Reference" "J1"
-			(at 132.08 30.48 0)
+			(at 132.08 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7795,7 +7712,7 @@
 			)
 		)
 		(property "Value" "Raspberry_Pi_4"
-			(at 132.08 33.02 0)
+			(at 132.08 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8126,7 +8043,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Motor_DC"
+		(property "Value" "Drive Motor Right"
 			(at 83.82 173.9899 0)
 			(effects
 				(font
@@ -8187,7 +8104,7 @@
 		(dnp no)
 		(uuid "7d87089d-5de4-4457-8158-afb2cda57300")
 		(property "Reference" "LCD"
-			(at 185.42 57.15 0)
+			(at 185.42 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8332,10 +8249,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7fe426b1-c636-49b4-959a-bc949c6b4328")
 		(property "Reference" "GPS"
-			(at 185.42 41.91 0)
+			(at 185.42 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8393,76 +8309,6 @@
 			(project ""
 				(path "/8d650bef-20d2-4446-89ff-47284d65b67c"
 					(reference "GPS")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 180.34 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89945839-6530-40ce-b62f-e1a18e78e4a9")
-		(property "Reference" "R3"
-			(at 182.88 31.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 182.88 34.2899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.356 33.274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 180.34 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7e8a31c5-5cad-4f13-bf97-4b1d60c3a984")
-		)
-		(pin "1"
-			(uuid "4a40256c-20dc-4bc2-b7f1-95c54357537d")
-		)
-		(instances
-			(project "GRIT_main"
-				(path "/8d650bef-20d2-4446-89ff-47284d65b67c"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8871,7 +8717,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Motor_DC"
+		(property "Value" "Drive Motor Left"
 			(at 83.82 130.8099 0)
 			(effects
 				(font
@@ -8941,7 +8787,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Motor_DC"
+		(property "Value" "Flywheel"
 			(at 147.32 173.9899 0)
 			(effects
 				(font
@@ -9081,7 +8927,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Motor_DC"
+		(property "Value" "Rotating Drum"
 			(at 147.32 130.8099 0)
 			(effects
 				(font
@@ -9274,76 +9120,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 189.23 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "caf9cdcd-c980-412d-8c33-929c4efd25ee")
-		(property "Reference" "R4"
-			(at 191.77 31.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 191.77 34.2899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.246 33.274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 189.23 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "57bfa03d-bbbc-42bd-929a-0e8c1522509a")
-		)
-		(pin "1"
-			(uuid "685361c6-ed77-4cc0-91c1-e27c4ee963c0")
-		)
-		(instances
-			(project "GRIT_main"
-				(path "/8d650bef-20d2-4446-89ff-47284d65b67c"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 201.93 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9420,10 +9196,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d29f6b5b-239c-4572-bc0b-8d7723befa26")
 		(property "Reference" "U1"
-			(at 234.6041 148.59 0)
+			(at 223.774 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9432,7 +9207,7 @@
 			)
 		)
 		(property "Value" "Raspberry_Pi_Pico"
-			(at 234.6041 151.13 0)
+			(at 223.774 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
