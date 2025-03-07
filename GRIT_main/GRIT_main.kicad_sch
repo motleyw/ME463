@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "8d650bef-20d2-4446-89ff-47284d65b67c")
-	(paper "A4")
+	(paper "A1")
 	(lib_symbols
 		(symbol "Connector:Raspberry_Pi_4"
 			(exclude_from_sim no)
@@ -9528,7 +9528,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "de53a735-a224-4a73-8c86-19de68caedb9")
 		(property "Reference" "LimitSwitch"
 			(at 185.42 141.6049 90)
